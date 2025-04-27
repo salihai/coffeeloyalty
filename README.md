@@ -125,8 +125,8 @@ Loyalty Program
 1. Clone the repository:
 
    ```bash
-    git clone https://github.com/[YourUsername]/CoffeeLoyalty.git
-    cd CoffeeLoyalty
+    git clone https://github.com/salihai/coffeeloyalty.git
+    cd coffeeloyalty
    ```
 
 2. Build the smart contract:
